@@ -137,7 +137,7 @@ Berdasarkan lokasi tersebut, aplikasi akan:
 
 **5. UX (User Experience) VIDEO PROTOTYPE Project**
 
-(hhttps://youtu.be/DvuVVXUoM4U?si=0Wy83HHgkl6PqnKf) 
+(https://youtu.be/DvuVVXUoM4U?si=0Wy83HHgkl6PqnKf)
 
 **6. Implementasi di Android Studio**
 
