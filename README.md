@@ -129,7 +129,7 @@ Berdasarkan lokasi tersebut, aplikasi akan:
 
 **3. Mockup Project**
 
-![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/487339bafe2b43ee60bb1d8780d7f9560d0abe76/pict_project/MOCKUP.png)
+![foto](https://github.com/Indahwakifa/project_UAS_Android_studio/blob/f6136c8e18f1416c2543017a285aff6aba9e3e7f/PICT_project/MOCKUP.png)
 
 **4. UI (User Interface) Project**
 
