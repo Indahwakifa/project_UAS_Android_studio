@@ -119,13 +119,9 @@ Berdasarkan lokasi tersebut, aplikasi akan:
 
 ![foto](https://github.com/Indahwakifa/project_UAS_Android_studio/blob/422a3e255bb92819cea026b42a2fdcd3a7b67bd1/PICT_project/bahasa%20indonesia.png)
 
-**🇺🇸 Amerika Serikat → Welcome**
+**china → 欢迎**
 
-![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/739fbe843e8880beca9a61ea99a7d0eb32015486/pict_project/Splash_Amerika.png)
-
-**🇯🇵 Jepang → ようこそ**
-
-![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/71aa9f8502c3725322d12f85433e105058fed81e/pict_project/Splash_Jepang.png)
+![foto](https://github.com/Indahwakifa/project_UAS_Android_studio/blob/8cd3730fe6601fd398d5e7adeaa0a3e921e88956/PICT_project/china.png)
 
 **🇰🇷 Korea → 환영합니다**
 
