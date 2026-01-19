@@ -117,7 +117,7 @@ Berdasarkan lokasi tersebut, aplikasi akan:
 
 **🇮🇩 Indonesia → Selamat Datang**
 
-![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/6a283afdce0bdecd844db30b8b32f4502eed9036/pict_project/Splash_Indonesia.png)
+![foto](https://github.com/Indahwakifa/project_UAS_Android_studio/blob/422a3e255bb92819cea026b42a2fdcd3a7b67bd1/PICT_project/bahasa%20indonesia.png)
 
 **🇺🇸 Amerika Serikat → Welcome**
 
