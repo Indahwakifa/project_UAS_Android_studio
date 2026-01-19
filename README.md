@@ -125,7 +125,7 @@ Berdasarkan lokasi tersebut, aplikasi akan:
 
 **🇰🇷 Korea → 환영합니다**
 
-![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/26bf634d7825977bd0989a2b71e5ec3284a9c4e3/pict_project/Splash_Korea.png)
+![foto](https://github.com/Indahwakifa/project_UAS_Android_studio/blob/91726812b813e750f855ed69ab7d15f24460b2be/PICT_project/bahasa%20korea.png)
 
 **3. Mockup Project**
 
