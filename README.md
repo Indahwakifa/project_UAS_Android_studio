@@ -133,20 +133,16 @@ Berdasarkan lokasi tersebut, aplikasi akan:
 
 **4. UI (User Interface) Project**
 
-![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/03fd6029052a743473529821364b9b022efc022a/pict_project/UI.png)
+![foto](https://github.com/Indahwakifa/project_UAS_Android_studio/blob/9a128c1c64a7f63c20d423f13c9023aa469e629e/PICT_project/UI.png)
 
 **5. UX (User Experience) VIDEO PROTOTYPE Project**
 
-(https://youtu.be/qKq5lmrD5Qs?si=tWpDfJatYJPUlCng ) 
+(hhttps://youtu.be/DvuVVXUoM4U?si=0Wy83HHgkl6PqnKf) 
 
 **6. Implementasi di Android Studio**
 
-(https://youtube.com/shorts/Em-N6Q9X-O0?feature=share)
-
-**7. Membuat notifikasi di firebase**
-
-![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/598f003521282a71fa61ee0519511fd2c6818f36/pict_project/NOTIFIKASI.jpeg)
+(https://youtube.com/shorts/CaunU5bh4hs?si=JaAlMn_6Et8bqL93)
 
 ## Link jadwal pada ClickUp
 
-![Klik ini untuk cek jadwal di board ClickUp](https://sharing.clickup.com/90181791691/l/h/6-901812249375-1/e882bd05d409d51)
+![Klik ini untuk cek jadwal di board ClickUp](https://sharing.clickup.com/90181885942/b/h/2kzm4qzp-378/414a6d164f6f2c9)
